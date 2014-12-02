@@ -1,0 +1,19 @@
+div.good{
+	background-color: green;
+	font-family: sans-serif;
+	border-color: white;
+	border-style: dashed;
+	border-width: 6px; 
+	padding: 25px;
+	margin:30px;
+}
+a:link{
+color: #007e7e;
+}
+a:visited{
+	color: #333333;
+}
+a:hover{
+	background: #f88396;
+	color: #0d5353;
+}
